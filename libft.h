@@ -6,7 +6,7 @@
 /*   By: mac <sorungta@42bangkok.com>               +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/26 13:21:17 by mac               #+#    #+#             */
-/*   Updated: 2022/08/26 13:27:00 by mac              ###   ########.fr       */
+/*   Updated: 2022/08/26 13:39:03 by mac              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@
 # include <unistd.h>
 
 int		ft_isalnum(int c);
-int		ft_isalpha(int c);
+int		ft_isalpha(char c);
 int		ft_isascii(int c);
 int		ft_isdigit(int c);
 int		ft_isprint(int c);
